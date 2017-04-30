@@ -1,8 +1,11 @@
 # android-adaptive-icons
-An example for the adaptive icons feature in android O
+An example for the adaptive icons feature in android O  
+
+**Note: At the moment, devices will choose the rounded icon over the adaptive icon. This may change until the release of android O.**
+
+<img src="/screenshots/screenshot1.png" width="256">
 
 ## Steps to reproduce
-
 
 ### 1. Create a project targeting android o (preview)
 ### 2. Create a resource for the launcher icon xml in the mipmap folder

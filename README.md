@@ -25,4 +25,4 @@ An example for the adaptive icons feature in android O
 
 
 ## Additional things
-[Comment-Check-Outline](https://materialdesignicons.com/icon/comment-check-outline) icon used in the launcher is provided by [materialdesignicons.com](https://materialdesignicons.com/)
+[Comment-Check-Outline](https://materialdesignicons.com/icon/comment-check-outline) icon used in the example is provided by [materialdesignicons.com](https://materialdesignicons.com/)
